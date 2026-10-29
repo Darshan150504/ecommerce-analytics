@@ -1,0 +1,16 @@
+{
+  "baseline_recovery_rate": 0.23322558514205546,
+  "avg_weekly_abandoning_users": 111194.0,
+  "alpha": 0.05,
+  "power": 0.8,
+  "chosen_design": {
+    "relative_mde": 0.025,
+    "treatment_rate": 0.23905622477060684,
+    "n_per_arm": 83289.0,
+    "total_users": 166578.0,
+    "days_needed": 11.0,
+    "weeks_needed_rounded": 2.0
+  },
+  "simulated_power_at_chosen_n": 0.794,
+  "aa_false_positive_rate": 0.045
+}

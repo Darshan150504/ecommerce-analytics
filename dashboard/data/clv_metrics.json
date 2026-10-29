@@ -1,0 +1,30 @@
+{
+  "customers": 432736,
+  "repeat_buyers": 120446,
+  "holdout_days": 21,
+  "actual_holdout_purchases": 154814.0,
+  "predicted_holdout_purchases": 150246.62103552703,
+  "naive_holdout_purchases": 235158.73743246528,
+  "aggregate_error_pct_model": -0.02950236389779326,
+  "aggregate_error_pct_naive": 0.5189759158245719,
+  "mae_per_customer_model": 0.47560690616323786,
+  "mae_per_customer_naive": 0.6037475249121201,
+  "actual_holdout_revenue": 77976957.47,
+  "predicted_holdout_revenue": 75341875.45413586,
+  "freq_spend_correlation": 0.14538444829473454,
+  "bgnbd_params": {
+    "r": 0.21488653804939442,
+    "alpha": 4.9106532952290705,
+    "a": 0.7699102660654638,
+    "b": 1.5058155898537904,
+    "converged": true
+  },
+  "gamma_gamma_params": {
+    "p": 1.1960905136518274,
+    "q": 1.9892185490297847,
+    "gamma": 392.7073829381248,
+    "converged": true
+  },
+  "top_decile_share_of_clv": 0.49522424538110743,
+  "clv_horizon_days": 90
+}

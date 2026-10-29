@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Data (several GB - never commit)
+/data/
+
+# Large / synthetic outputs
+outputs/sample/
+outputs/*.parquet
+dashboard/data_sample/
+GUIDE.md
