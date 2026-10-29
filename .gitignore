@@ -12,3 +12,4 @@ outputs/sample/
 outputs/*.parquet
 dashboard/data_sample/
 GUIDE.md
+.vscode/
